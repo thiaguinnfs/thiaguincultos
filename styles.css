@@ -1,0 +1,22 @@
+body {
+    background: bisque;
+}
+
+header {
+    border-bottom: solid 5px rgb(131, 18, 3);
+    margin: 20px;
+    font-size: larger;
+    color: black;
+}
+
+section {
+    background: chocolate;
+    border: solid 3.5px rgb(90, 32, 5);
+    margin: 20px;
+    margin-right: 1000px;
+    padding-left: 50px;
+}
+
+img {
+    height: 200px;
+}
